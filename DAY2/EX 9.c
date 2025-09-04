@@ -32,6 +32,6 @@ int main() {
             total += 10;
     }
 
-    printf("Valeur Scrabble : %d\n", total);
+    printf("Valeur Scrabble : %d", total);
     return 0;
 }
