@@ -35,7 +35,7 @@ int main() {
         
     }
 
-    printf(%s\n, n);
+    printf(%s, n);
 
     return 0;
 }
