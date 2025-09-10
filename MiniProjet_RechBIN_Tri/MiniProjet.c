@@ -37,11 +37,6 @@ int main(void)
             break;
         case 6:
         {
-            if (nbLivres == 0)
-            {
-                printf("\tAucun livre en stock.\n");
-                return -1;
-            }
             int choix2;
             printf("----------- \n");
             printf("1. Trier Tableau Par Quantite croissante (Petit ---> Grand)\n");
